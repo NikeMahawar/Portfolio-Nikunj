@@ -322,6 +322,18 @@ img {
   z-index: var(--z-back);
 }
 
+.skills__python {
+  width: 95%;
+}
+
+.skills__flask {
+  width: 75%;
+}
+
+.skills__javascript {
+  width: 75%;
+}
+
 .skills__html {
   width: 95%;
 }
@@ -330,20 +342,8 @@ img {
   width: 85%;
 }
 
-.skills__python {
+.skills__sql {
   width: 75%;
-}
-
-.skills__js {
-  width: 65%;
-}
-
-.skills__ux {
-  width: 85%;
-}
-
-.skills__wps {
-  width: 65%;
 }
 
 .skills__img {
